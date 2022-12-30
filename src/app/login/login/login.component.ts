@@ -14,7 +14,7 @@ export class LoginComponent {
   esError= false;
 
   validateLogin(){
-    if (this.username ==='Admin' && this.password ==='admin123') {
+    if (this.username ==='Angular' && this.password ==='123456') {
       this.showArray = true;
     }else{
       this.esError = true;

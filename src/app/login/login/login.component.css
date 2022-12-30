@@ -1,0 +1,17 @@
+.titulo{
+    font-size: 30px;
+    margin: 10px 0px 30px 0px;
+}
+input {
+    border: 0px;
+}
+.bor{
+    margin-left: 20px;
+    border-bottom: 1px solid;
+}
+.boton{
+    margin-top: 10px;
+}
+ul{
+    list-style-type: none;
+}
